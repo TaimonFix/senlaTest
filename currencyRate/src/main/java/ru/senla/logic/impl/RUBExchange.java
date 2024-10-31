@@ -24,9 +24,9 @@ public class RUBExchange extends Exchange {
     public Map<Currency, Double> initExchangeMap() {
         Map<Currency, Double> exchangeMap = new LinkedHashMap<>();
         exchangeMap.put(Currency.USD, 0.010304);
-        exchangeMap.put(Currency.EUR, 0.010304);
+        exchangeMap.put(Currency.EUR, 0.009477);
         exchangeMap.put(Currency.CNY, 0.073596);
-        exchangeMap.put(Currency.TRY, 0.352588);
+        exchangeMap.put(Currency.TYR, 0.352588);
 
         return exchangeMap;
     }

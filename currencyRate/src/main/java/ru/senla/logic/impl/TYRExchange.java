@@ -9,11 +9,11 @@ import java.util.Map;
 public class TYRExchange extends Exchange {
 
     public TYRExchange(double count, Map<Currency, Double> exchangeMap) {
-        super(Currency.TRY, count, exchangeMap);
+        super(Currency.TYR, count, exchangeMap);
     }
 
     public TYRExchange(double count) {
-        super(Currency.TRY, count);
+        super(Currency.TYR, count);
     }
 
     public TYRExchange() {

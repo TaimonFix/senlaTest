@@ -26,7 +26,7 @@ public class USDExchange extends Exchange {
         exchangeMap.put(Currency.RUB, 97.05);
         exchangeMap.put(Currency.EUR, 0.91945);
         exchangeMap.put(Currency.CNY, 7.12);
-        exchangeMap.put(Currency.TRY, 34.25);
+        exchangeMap.put(Currency.TYR, 34.25);
 
         return exchangeMap;
     }

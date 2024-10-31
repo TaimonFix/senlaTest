@@ -26,7 +26,7 @@ public class CNYExchange extends Exchange {
         exchangeMap.put(Currency.RUB, 13.59);
         exchangeMap.put(Currency.USD, 0.140475);
         exchangeMap.put(Currency.EUR, 0.12916);
-        exchangeMap.put(Currency.TRY, 4.81);
+        exchangeMap.put(Currency.TYR, 4.81);
 
         return exchangeMap;
     }
