@@ -175,6 +175,7 @@ public class Game {
         }
 
         if (countOfAttempts == 0) {
+            System.out.println(GALLOWS[5]);
             System.out.println("Увы! Вы не успели отгадать слово...");
         } else {
             System.out.println("Вы смогли отгадать слово! ");
